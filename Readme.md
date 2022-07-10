@@ -51,8 +51,8 @@ Leg:
 * [[Shank Supporter]](https://github.com/boyuan99/Borot/blob/main/Parts/shank_supporter.stl)
 * [[Left Thigh1]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left1.stl)
 * [[Left Thigh2]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left2.stl)
-* [[Right Thigh1]]([[Left Thigh1]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left1.stl))
-* [[Right Thigh2]]([[Left Thigh1]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left2.stl))
+* [[Right Thigh1]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left1.stl)
+* [[Right Thigh2]](https://github.com/boyuan99/Borot/blob/main/Parts/thigh_left2.stl)
 
 Foot:
 
