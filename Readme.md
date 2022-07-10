@@ -14,10 +14,10 @@ Video presentation: https://www.youtube.com/watch?v=awiGGOEJ-E4&ab_channel=BoYua
 
 ## Table of Contents
 
-* [Appearance](#appearance)
-* [3D Printed Parts](#3D Printed Parts)
-* [Robot Assembly](#Robot Assembly)
-* [Controling Circuit](#Controling Circuit)
+* [Appearance](#Appearance)
+* [3D Printed Parts](#3D-Printed-Parts)
+* [Robot Assembly](#Robot-Assembly)
+* [Controling Circuit](#Controling-Circuit)
 * [Code](#Code)
 
 ## Appearance
