@@ -1,6 +1,6 @@
 # Borot
 
-[![fusion 360](https://img.shields.io/badge/fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/campaigns/education/fusion-360)[![motor](https://img.shields.io/badge/motor-lewansoul_lx16a-brightgreen.svg?style=flat-square)](https://github.com/ethanlipson/PyLX-16A)
+[![fusion 360](https://img.shields.io/badge/fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/campaigns/education/fusion-360)	[![motor](https://img.shields.io/badge/motor-lewansoul_lx16a-brightgreen.svg?style=flat-square)](https://github.com/ethanlipson/PyLX-16A)
 
 A self designed robot powered by Raspberry Pi. Used Fusion 360 to design.
 
@@ -15,7 +15,10 @@ Video presentation: https://www.youtube.com/watch?v=awiGGOEJ-E4&ab_channel=BoYua
 ## Table of Contents
 
 * [Appearance](#appearance)
-* [Robot Assembly](#appearance)
+* [3D Printed Parts](#3D Printed Parts)
+* [Robot Assembly](#Robot Assembly)
+* [Controling Circuit](#Controling Circuit)
+* [Code](#Code)
 
 ## Appearance
 
