@@ -2,15 +2,15 @@
 
 [![fusion 360](https://img.shields.io/badge/fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/campaigns/education/fusion-360)	[![motor](https://img.shields.io/badge/motor-lewansoul_lx16a-brightgreen.svg?style=flat-square)](https://github.com/ethanlipson/PyLX-16A)
 
-A self designed robot powered by Raspberry Pi. Used Fusion 360 to design.
+A class project for **MECE 4611**, self designed robot powered by Raspberry Pi. Used Fusion 360 to design.
 
 The repository contains:
 
 	1. All the 3D printed parts that make up a robot.
- 	2. Controling circuit
- 	3. Codes to show movement.
+	2. Controling circuit
+	3. Codes to show movement.
 
-Video presentation: https://www.youtube.com/watch?v=awiGGOEJ-E4&ab_channel=BoYuan
+
 
 ## Table of Contents
 
